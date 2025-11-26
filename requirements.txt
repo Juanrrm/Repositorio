@@ -1,5 +1,10 @@
 streamlit
 pandas
 numpy
-autogluon.tabular
 scikit-learn
+autogluon.tabular
+fastai
+fastcore
+torch
+torchvision
+matplotlib
